@@ -1,6 +1,3 @@
-Here is a **comprehensive GitHub README** for your project. You can directly copy and paste it into your repository.
-
----
 
 # 🚀 Remaining Useful Life (RUL) Estimation using Machine Learning & Deep Learning
 
